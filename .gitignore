@@ -10,7 +10,6 @@ go.work
 go.work.sum
 
 # Local agent guidance
-/AGENTS.md
 
 # Build outputs
 /bin/
